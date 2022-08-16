@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    color: crimson;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-size: 30px;
+}
+#app{
+    background-color: rgb(196, 248, 218);
+}
+#games{
+    background-color: rgba(202, 99, 99, 0.986);
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+#carousel{
+    background-color: firebrick;
+}
